@@ -1,0 +1,1 @@
+# Adquisición de una computadora
