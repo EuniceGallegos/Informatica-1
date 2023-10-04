@@ -72,5 +72,7 @@ Proceso Parqueadero
 FinProceso
 
 ```
+
 Importante tener estas opciones en PSeInt:
+
 <img src="https://github.com/EuniceGallegos/Informatica-1/blob/main/Images/pseint.png" alt="ejemplo" width="50%"/>
