@@ -1,4 +1,4 @@
-<img src="Imagenes/UAMI.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="Informatica-1/Images/uam.png"UAM Iztapalapa" width="60%"/>
 
 # INFORMATICA
 ## Eunice Jocabeth Gallegos Estevez
