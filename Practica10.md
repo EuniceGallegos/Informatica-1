@@ -7,7 +7,6 @@ En equipo, investigue los conceptos básicos de licenciamiento de software: (1) 
 
 Simplifique la definicion con una frase corta y acompañe la defición con un par de ejemplos.
 
----
 
 <img src="https://github.com/EuniceGallegos/Informatica-1/blob/main/Images/practica10.jpg" alt="ejemplo" width="50%"/>
 <img src="https://github.com/EuniceGallegos/Informatica-1/blob/main/Images/practica10.1.jpg" alt="ejemplo" width="50%"/>
