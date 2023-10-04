@@ -19,13 +19,13 @@ Simplifique la definicion con una frase corta y acompañe la defición con un pa
 
 **Software Privativo:**
 
-Ventajas: 
+**Ventajas:** 
 
 Control total por parte de la empresa desarrolladora.
 Soporte técnico disponible.
 A menudo incluye características avanzadas y actualizaciones regulares.
 
-Desventajas:
+**Desventajas:**
 
 Falta de transparencia y control para los usuarios.
 Limitaciones en la personalización y modificación.
@@ -33,13 +33,13 @@ Costos asociados y restricciones de licencia.
 
 **Software Abierto (Open Source):**
 
-Ventajas:
+**Ventajas:**
 
 Código fuente disponible para inspección y modificación.
 Comunidad de desarrolladores colaborando en mejoras.
 Menores costos de adquisición y flexibilidad.
 
-Desventajas:
+**Desventajas:**
 
 Puede carecer de soporte técnico adecuado.
 No todos los proyectos tienen un enfoque de desarrollo empresarial.
@@ -47,13 +47,13 @@ Posible fragmentación debido a múltiples versiones.
 
 **Software Libre:**
 
-Ventajas:
+**Ventajas:**
 
 Libertad para usar, modificar y redistribuir.
 Fomenta la colaboración y la comunidad.
 Enfoque en principios éticos y de libertad del usuario.
 
-Desventajas:
+**Desventajas:**
 
 Puede requerir más esfuerzo para configurar y mantener.
 Menos software comercial disponible de inmediato.
