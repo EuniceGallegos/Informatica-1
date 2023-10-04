@@ -6,6 +6,7 @@ Parte 1. Investigue qué es un sistema operativo (guía), tipos de sistemas oper
 compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez (url).
 
 **¿Qué es un sistema operativo?**
+
 Un sistema operativo es un software que:
 1. Administra los recursos de hardware, como CPU, memoria, dispositivos de entrada/salida, y almacenamiento.
 2. Proporciona una interfaz para que los usuarios interactúen con la computadora.
@@ -14,7 +15,7 @@ Un sistema operativo es un software que:
 5. Gestiona el sistema de archivos y la administración de datos.
 6. Facilita la comunicación entre el hardware y el software.
 
--Tipos de sistemas operativos:
++Tipos de sistemas operativos:
 Existen varios tipos de sistemas operativos, cada uno con sus propias características y aplicaciones específicas. Algunos de los tipos más comunes son:
 
 **Sistemas Operativos de Escritorio:** Están diseñados para computadoras personales y ofrecen una interfaz gráfica de usuario (GUI) que facilita la interacción con el sistema. Ejemplos incluyen Windows, macOS y Linux.
