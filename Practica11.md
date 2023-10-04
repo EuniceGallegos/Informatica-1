@@ -86,6 +86,7 @@ En resumen, una imagen ISO es una copia exacta de un disco óptico que se utiliz
 
 ----
 
+Parte 3. Investigue un poco sobre las distribuciones del sistema operativo GNU/Linux (guía). Descargue el archivo ISO del sistema operativo Linux Fedora (guía) o Zorin OS de 32 o 64 bits, según sea la arquitectura del procesador (CPU) de su computadora (x86_64, por lo general).
 
 Las distribuciones de GNU/Linux, comúnmente conocidas como "distros", son versiones del sistema operativo GNU/Linux que incluyen el núcleo Linux junto con una variedad de software adicional, como entornos de escritorio, herramientas de gestión de paquetes y aplicaciones preinstaladas. Cada distribución está diseñada con objetivos específicos en mente y puede variar en términos de filosofía, enfoque, público objetivo y características.
 
@@ -132,5 +133,40 @@ Objetivo: Proporcionar un sistema minimalista y altamente personalizable.
 Entorno de escritorio predeterminado: Ninguno (el usuario elige).
 Gestor de paquetes: Pacman.
 Características: Dirigido a usuarios avanzados, Arch permite construir un sistema a medida seleccionando y configurando manualmente cada componente.
+
+----
+
+Parte 5. Investigue los conceptos involucrados: bootear un equipo (guía), BIOS (guía), UEFI (guía), partición (física y lógica, de arranque) (guía), GPT y MBR (guía).
+
+**Bootear un equipo:**
+
+Significa iniciar el sistema operativo cuando enciendes la computadora.
+El equipo busca instrucciones de inicio en un lugar específico, como un disco duro o una unidad USB.
+
+**BIOS (Sistema Básico de Entrada/Salida):**
+
+Es un programa en la placa base de la computadora.
+Inicializa y verifica el hardware y luego carga el sistema operativo desde el dispositivo de inicio.
+
+**UEFI (Interfaz de Firmware Extensible Unificada):**
+
+Es una versión moderna de la BIOS.
+Ofrece una interfaz gráfica y características avanzadas, como el Arranque Seguro.
+
+**Partición:**
+
+Es una sección dividida en un disco duro.
+Las particiones pueden ser físicas (divisiones reales) o lógicas (particiones dentro de una primaria).
+Una partición de arranque contiene archivos para iniciar el sistema operativo.
+
+**GPT (Tabla de Partición GUID):**
+
+Estándar moderno para organizar particiones en discos grandes.
+Admite más particiones y discos grandes (>2TB).
+
+**MBR (Registro Maestro de Arranque):**
+
+Estándar más antiguo para organizar particiones en discos más pequeños.
+Limitado en tamaño y particiones (máx. 2TB y 4 primarias o 3 primarias y 1 extendida).
 
 ----
