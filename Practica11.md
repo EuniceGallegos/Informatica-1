@@ -63,3 +63,25 @@ Los sistemas embebidos y de tiempo real pueden tener interfaces mínimas o ningu
 -Robustez:
 Los sistemas operativos de servidor y de tiempo real se diseñan para ser altamente robustos y tolerantes a fallos.
 Los sistemas embebidos suelen ser robustos, pero su nivel de robustez depende de la aplicación específica.
+
+----
+
+Parte 2. Investigue qué es una imagen ISO y cómo se usa. Utilice Qbittorrent y, mediante su motor de búsqueda, localice la imagen ISO del sistema operativo Windows 7, usando la frase "Windows 7 untouched genuine" o "Windows 7 Ultimate spanish" (tutorial) o busque el torrent aquí. Identifique la entrada que tiene más semillas (seeds) y descárguela.
+
+Una imagen ISO es un archivo que contiene una copia exacta de todos los datos y la estructura de un disco óptico, como un CD, DVD o disco Blu-ray. El término "ISO" proviene de la Organización Internacional de Normalización (International Organization for Standardization en inglés), que desarrolló el estándar para este tipo de archivos. Estas imágenes ISO pueden ser utilizadas para crear copias exactas de discos ópticos o para emular unidades de disco virtuales en sistemas informáticos.
+
+Aquí hay algunas características clave de las imágenes ISO y cómo se utilizan:
+
+1. Copia de respaldo: Las imágenes ISO se utilizan comúnmente para realizar copias de respaldo de discos físicos, como sistemas operativos, software, juegos, películas y más. Al crear una imagen ISO de un disco, se captura una copia exacta de todos los datos y la estructura del disco en un archivo único.
+
+2. Instalación de software y sistemas operativos: Una imagen ISO de un sistema operativo o un programa puede montarse en una unidad virtual o grabarse en un disco físico para instalar el software en una computadora. Esto es especialmente útil para la distribución de sistemas operativos como Windows, Linux y macOS, ya que permite la instalación en múltiples computadoras sin necesidad de utilizar el disco físico original.
+
+3. Emulación de unidades de disco virtual: Las imágenes ISO se pueden montar en unidades de disco virtual utilizando software de emulación, como Daemon Tools (en Windows) o Disk Utility (en macOS). Esto permite acceder al contenido del disco como si estuviera insertado en una unidad de CD/DVD física sin necesidad de tener un disco real.
+
+4. Creación de discos de arranque: Las imágenes ISO también se utilizan para crear discos de arranque o unidades flash USB de arranque. Esto es esencial para la instalación o recuperación de sistemas operativos, ya que permite iniciar una computadora desde el disco o la unidad USB para realizar tareas específicas, como reinstalar el sistema operativo o reparar problemas.
+
+5. Distribución de software y medios digitales: Muchos programas y juegos se distribuyen en línea en forma de imágenes ISO. Los usuarios pueden descargar estas imágenes y luego grabarlas en discos físicos o montarlas en unidades virtuales para instalar el software o jugar.
+
+En resumen, una imagen ISO es una copia exacta de un disco óptico que se utiliza para respaldar datos, instalar software, crear discos de arranque y más. Su versatilidad y facilidad de uso la hacen una herramienta importante en el mundo de la informática y la distribución de software.
+
+----
